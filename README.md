@@ -8,6 +8,6 @@ I'm a **Information Systems Engineer** student who is passionate about writing c
 - 🔭 I’m currently a student at Costa Rica National University.
 - 📚 I’m currently learning  backend web development using Ruby on Rails, Java Sprint Boot, AWS, Python, Docker and other technologies.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/esteban-chacon-castillo-28b7a22ab) [Gmail](mailto:chaconc2002@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/esteban-chacon-castillo) [Gmail](mailto:chaconc2002@gmail.com)
 
 ⭐️ From [Luisby47](https://github.com/Luisby47)
